@@ -3,8 +3,8 @@ import argparse
 import jupytext
 
 # Define directories
-notebook_dir = 'notebook'
-script_dir = 'script'
+notebook_dir = './'
+script_dir = './stock_market_predictor/predictor'
 
 # Function to create directories if they don't exist
 def create_dirs():
