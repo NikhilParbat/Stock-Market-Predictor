@@ -10,8 +10,7 @@
 # Ignore notebook folder (if it's a folder)
 notebook/
 
-# Ignore specific notebook files (if needed)
-*.ipynb
+
 
 data/
 
